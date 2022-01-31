@@ -4,6 +4,6 @@
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
 </head>
 <body>
-<h1>TP GIT</h1>
+<h1><?php echo 'TP GIT'?></h1>
 </body>
 </html>
